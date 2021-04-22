@@ -1,15 +1,16 @@
-id: opecha:P000340
+id: P000340
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD95677
   title: སྡེ་དགེའི་བཀའ་བསྟན་དཀར་ཆག
-  volume:
+  author: ''
+  volumes:
     6931400af2e44e87a312e76979651458:
       image_group_id: I1PD95755
       title: Volume 1 of 西藏大藏经总目录 总索引
       volume_number: 1
       total_pages: 858
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྡེ་དགེའི་བཀའ་བསྟན་དཀར་ཆག
   author: ''
